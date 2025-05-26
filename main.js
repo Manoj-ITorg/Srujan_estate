@@ -1,7 +1,7 @@
 const properties = [
   {
     image: "property-1.jpg",
-    title: "Modern Apartment in City Center",
+    title: "Manoj Apartment in City Center",
     description: "2 bed, 2 bath, close to metro and shopping.",
     contact: "agent1@example.com"
   },
